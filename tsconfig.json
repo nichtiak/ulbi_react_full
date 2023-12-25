@@ -13,7 +13,7 @@
     "allowJs": true,
     "moduleResolution": "node",
     // для абсолютного импорта
-    "baseUrl": ".",
+    // "baseUrl": ".",
     // esModuleInterop позволяет работать с пакетами, которые используют
     // commonJS (require()) так же как и с import (module.export)
     //import Moment from 'moment'
